@@ -1,0 +1,6 @@
+FastAPI
+pandas
+xgboost
+numpy
+sklearn
+uvicorn
